@@ -1,0 +1,17 @@
+# Android Studio
+.idea/
+.gradle/
+build/
+*/build/
+local.properties
+*.iml
+
+# APKs
+*.apk
+*.aab
+
+# Logs
+*.log
+
+# Others
+captures/
